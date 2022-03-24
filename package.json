@@ -1,0 +1,15 @@
+{
+    "id": "mi-map",
+    "name": "自定义地图组件mi-map",
+    "version": "1.3.0",
+    "description": "代码简单，易用。如页面样式不符合项目需求，可直接修改源码",
+    "keywords": [
+        "map",
+        "mi-map",
+        "地图",
+        "地图组件"
+    ],
+    "dependencies": {
+        "vue-jsonp": "^2.0.0"
+    }
+}
